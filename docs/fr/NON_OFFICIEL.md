@@ -8,4 +8,4 @@ Cette traduction est fournie à titre informatif et peut être corrigée, améli
 
 Pour signaler une erreur, une incohérence ou proposer une amélioration, merci d’ouvrir une issue dans le dépôt ou de contacter le mainteneur du projet.
 
-Je reconnais que, à tout moment, si le jeu est repris par un éditeur français, celui-ci aura le droit de retirer cette traduction de l'URL du site « Cabinet of Curiosities ». 
+Je reconnais expressément que, à tout moment, si le jeu est repris par un éditeur français, celui-ci pourra retirer cette traduction, ainsi que l'URL du site « Cabinet of Curiosities », de toute diffusion publique, sans notification préalable et sans que cela puisse être interprété comme une contestation de la validité de cette traduction.
