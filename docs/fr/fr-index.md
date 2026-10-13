@@ -45,7 +45,7 @@ Obtenez les brochures au format numérique sur [emanoelmelo.itch.io/cbrpnk-core]
 
 CBR+PNK a été créé par **EMANOEL MELO** ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) et publié par **MYTHWORKS** ([myth.works](https://myth.works)).
 
-Éditeur de version : Helen Hey
+Éditrice de version : Helen Hey
 
 Les règles **Long Shot** (Mode Campagne) sont adaptées du cadre de campagne *Broken Spire* de Sean Nitter pour *Blades in the Dark*.
 
